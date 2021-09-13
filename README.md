@@ -13,7 +13,7 @@
 
 ## [ignite](https://pytorch.org/ignite/)가 DDL을 위한 유일한 솔루션인가요? 
 
- 아닙니다. 같은 파이토치 기반의 래퍼 프레임워크인 라이트닝(lightning - 라이트닝 개발자가 [이그나이트와 fast.ai를 비교한 글](https://towardsdatascience.com/pytorch-lightning-vs-pytorch-ignite-vs-fast-ai-61dc7480ad8a) 참조), 텐서플로 (tensorflow) 기반의  메시 텐서플로(mesh tensorflow), 여러 백엔드(backend)에서 사용이 가능한 호로보드 (horovod) 등도 있습니다. 또는 빌트인 패러럴 서포트(built-in parallel support)인 torch.distributed이나 tf.distribute 등을 직접 이용해도 됩니다. ---~~읭? 스펠이 다르다.~---
+ 아닙니다. 같은 파이토치 기반의 래퍼 프레임워크인 라이트닝(lightning - 라이트닝 개발자가 [이그나이트와 fast.ai를 비교한 글](https://towardsdatascience.com/pytorch-lightning-vs-pytorch-ignite-vs-fast-ai-61dc7480ad8a) 참조), 텐서플로 (tensorflow) 기반의  메시 텐서플로(mesh tensorflow), 여러 백엔드(backend)에서 사용이 가능한 호로보드 (horovod) 등도 있습니다. 또는 빌트인 패러럴 서포트(built-in parallel support)인 torch.distributed이나 tf.distribute 등을 직접 이용해도 됩니다. ---~~읭? 스펠이 다르다.~~---
 
 
 ## [ignite](https://pytorch.org/ignite/) 한계
