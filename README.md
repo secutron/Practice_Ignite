@@ -30,5 +30,17 @@
  여러 분산 딥러닝 방식 중에서 데이터 패러럴리즘이 가장 이해하기 쉽습니다. 그리고 사실 학습데이터의 양에 상관 없이 항상 데이터는 나누어 처리될 수 있으므로, DDL에서 가장 많이 사용하는 형태이라고 생각할 수 있습니다. 
 
 
+## Repo. 구성
+
+- 2.1.1.ipynb : Colab VM의 CPU를 이용한 간단 분산처리
+- 2.1.2.ipynb : Colab VM의 GPU를 이용한 간단 분산처리
+- 2.1.3.ipynb : Colab VM의 TPU를 이용한 간단 분산처리
+- 2.1.4.ipynb : 간단 분산 딥러닝 예제
+- A.1.ipynb : 간단 속성 예제
+- A.1.x1.ipynb : auto_dataloader에 의한 데이터 분배 확인 예제
+- A.1.x2.ipynb : 기타
+---~~간단간단간단간단~~--
+
+
 ## **Disclosure**:   
 Most of the code in this repo is inspired by [ignite](https://pytorch.org/ignite/) team's great works. You can find it here: https://pytorch.org/ignite/master/about.html . I appreciate their contribution to the deep learning commnunity!
