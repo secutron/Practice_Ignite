@@ -45,9 +45,9 @@
 - [2.1.4.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/2_1_4.ipynb) : 간단 분산 딥러닝 예제
 - [A.1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1.ipynb) : 간단 속성 예제
 - [A.1.x1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1_x1.ipynb) : auto_dataloader에 의한 데이터 분배 확인 예제
-- [A.1.x2.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1_x2.ipynb) : 기타
-- [A.2.1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_2_1.ipynb) : 
-- [A.2.2.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_2_2.ipynb) : 
+- [A.1.x2.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1_x2.ipynb) : 기타 활용 예제
+- [A.2.1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_2_1.ipynb) : HandlersTimeProfiler 기반 측정 예제
+- [A.2.2.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_2_2.ipynb) : Timer 기반 측정 예제  
 ---~~간단간단간단간단~~--
 
 
