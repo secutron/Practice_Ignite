@@ -37,13 +37,15 @@
 
 ## Repo. 구성
 
-- 2.1.1.ipynb : Colab VM의 CPU를 이용한 간단 분산처리
-- 2.1.2.ipynb : Colab VM의 GPU를 이용한 간단 분산처리
-- 2.1.3.ipynb : Colab VM의 TPU를 이용한 간단 분산처리
-- 2.1.4.ipynb : 간단 분산 딥러닝 예제
-- A.1.ipynb : 간단 속성 예제
-- A.1.x1.ipynb : auto_dataloader에 의한 데이터 분배 확인 예제
-- A.1.x2.ipynb : 기타
+- [2.1.1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/2_1_1.ipynb) : Colab VM의 CPU를 이용한 간단 분산처리
+- [2.1.2.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/2_1_2.ipynb) : Colab VM의 GPU를 이용한 간단 분산처리
+- [2.1.3.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/2_1_3.ipynb) : Colab VM의 TPU를 이용한 간단 분산처리
+- [2.1.4.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/2_1_4.ipynb) : 간단 분산 딥러닝 예제
+- [A.1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1.ipynb) : 간단 속성 예제
+- [A.1.x1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1_x1.ipynb) : auto_dataloader에 의한 데이터 분배 확인 예제
+- [A.1.x2.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1_x2.ipynb) : 기타
+- [A.2.1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_2_1.ipynb) : 
+- [A.2.2.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_2_2.ipynb) : 
 ---~~간단간단간단간단~~--
 
 
