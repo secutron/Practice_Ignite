@@ -43,7 +43,7 @@
 - [2.1.2.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/2_1_2.ipynb) : Colab VM의 GPU를 이용한 간단 분산처리
 - [2.1.3.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/2_1_3.ipynb) : Colab VM의 TPU를 이용한 간단 분산처리
 - [2.1.4.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/2_1_4.ipynb) : 간단 분산 딥러닝 예제
-- [A.1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1.ipynb) : 간단 속성 예제
+- [A.1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1.ipynb) : 속성 학습을 위한 간단한 예제
 - [A.1.x1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1_x1.ipynb) : auto_dataloader에 의한 데이터 분배 확인 예제
 - [A.1.x2.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_1_x2.ipynb) : 기타 활용 예제
 - [A.2.1.ipynb](https://github.com/secutron/Practice_Ignite/blob/main/A_2_1.ipynb) : HandlersTimeProfiler 기반 측정 예제
