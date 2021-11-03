@@ -1,6 +1,9 @@
 # [KR] Practice_Ignite
 
 [Torch Ignite](https://pytorch.org/ignite/)를 이용한 분산 딥러닝(Distributed Deep Learning - DDL) 가이드라인
+  
+: 기본 개념을 익히기 위한 것으로, 본격 분산처리 이용자는 MS사의 DeepSpeed 등을 이용할 것을 권합니다.
+  
 
 ## [Ignite](https://pytorch.org/ignite/) 필요성
 
