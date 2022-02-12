@@ -1,6 +1,6 @@
 # [KR] Practice_Ignite
 
-[Torch Ignite](https://pytorch.org/ignite/)를 이용한 분산 딥러닝(Distributed Deep Learning - DDL) 연습
+[Torch Ignite](https://pytorch.org/ignite/)를 이용한 분산 딥러닝(DDL - Distributed Deep Learning) 연습
   
 : 기본 개념을 익히기 위한 것으로, 본격 분산처리 이용자는 Torch Ignite 보다는 [MS사의 DeepSpeed](https://github.com/microsoft/DeepSpeed) 등을 이용할 것을 권합니다.
   
