@@ -55,4 +55,4 @@
 
 
 ## **Disclosure**:   
-Most of the code in this repo is inspired by [ignite](https://pytorch.org/ignite/) team's great works. You can find it here: https://pytorch.org/ignite/master/about.html . I appreciate their contribution to the deep learning commnunity!
+Most of the codes in this repo are inspired by [ignite](https://pytorch.org/ignite/) team's great works. You can find it here: https://pytorch.org/ignite/master/about.html . I appreciate their contribution to the deep learning commnunity!
